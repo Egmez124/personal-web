@@ -11,7 +11,7 @@
     margin: 1rem;
 }
 .col-1{
-    background-image: url('./public/fondo-2.jpg');
+    background-image: url('./public/fondo3.jpg');
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -21,6 +21,7 @@
     color: azure;
 }
 .col-2{
+    
     height: 90vh;
     width: 100%;
     display: flex;
@@ -53,6 +54,8 @@
     background-color: #243238;
 }
 .info{
+    background-image: url('./public/fondo3.jpg');
+    background-size: cover;
     height: 100vh;
     width: 100%;
 
